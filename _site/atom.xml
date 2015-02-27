@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Thinny</title>
- <link href="http://camporez.com/atom.xml" rel="self"/>
- <link href="http://camporez.com/"/>
- <updated>2015-02-26T20:02:42-06:00</updated>
- <id>http://camporez.com</id>
+ <title>ScalaTricks</title>
+ <link href="http://www.scalatricks.com/atom.xml" rel="self"/>
+ <link href="http://www.scalatricks.com/"/>
+ <updated>2015-02-26T20:19:22-06:00</updated>
+ <id>http://www.scalatricks.com</id>
  <author>
-   <name>Ian Brunelli</name>
+   <name>Mashallah Behbehani</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>Hello, Cosette</title>
-   <link href="http://camporez.com/blog/hello-cosette"/>
+   <link href="http://www.scalatricks.com/articles/hello-cosette"/>
    <updated>2014-02-27T00:00:00-06:00</updated>
-   <id>http://camporez.com/blog/hello-cosette</id>
+   <id>http://www.scalatricks.com/articles/hello-cosette</id>
    <content type="html">&lt;h1 id=&quot;thinny-21-codename-cosettehttplesmiserableswikiacomwikicosette&quot;&gt;Thinny 2.1, codename “&lt;a href=&quot;http://lesmiserables.wikia.com/wiki/Cosette&quot;&gt;Cosette&lt;/a&gt;”&lt;/h1&gt;
 
 &lt;p&gt;Cosette is the main character of the french novel &lt;em&gt;Les Misérables&lt;/em&gt;, published in 1862 by &lt;em&gt;Victor Hugo&lt;/em&gt;.&lt;/p&gt;
@@ -141,9 +141,9 @@
  
  <entry>
    <title>Thinny 2: a Jekyll theme</title>
-   <link href="http://camporez.com/blog/thinny-2"/>
+   <link href="http://www.scalatricks.com/articles/thinny-2"/>
    <updated>2014-01-22T00:00:00-06:00</updated>
-   <id>http://camporez.com/blog/thinny-2</id>
+   <id>http://www.scalatricks.com/articles/thinny-2</id>
    <content type="html">&lt;p&gt;Three months ago, I released an (unfinished) theme for Ghost 0.3: &lt;a href=&quot;http://github.com/camporez/Thinny&quot;&gt;Thinny 0.3&lt;/a&gt;, codename “&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;”.
 But now I’m migrating my blog to Jekyll, and also migrating the theme. With a brand new look, Thinny 2 also brings a lot of new features and polishment. Actually, it was completely remaked.&lt;/p&gt;
 
@@ -164,7 +164,7 @@ But now I’m migrating my blog to Jekyll, and also migrating the theme. With a 
 &lt;/ul&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Thinny&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— ScalaTricks&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
   &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
 &lt;/ol&gt;
